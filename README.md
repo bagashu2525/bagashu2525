@@ -5,7 +5,7 @@
 - 💬 Ask me about java, python , c and php
 
 ## 🌐 Socials:
-[<img src='https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png' alt='github' height='40'>](https://github.com/bagashu2525)  [<img src='https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/asmita-bag-361968232/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_de_Facebook.png' alt='facebook' height='40'>](https://www.facebook.com/asmita.bag.31)  [<img src='https://img.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728.jpg?size=338&ext=jpg&ga=GA1.1.34264412.1712880000&semt=ais' alt='instagram' height='40'>](https://www.instagram.com/asmitabag8/)  
+[<img src='https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png' alt='github' height='40'>](https://github.com/bagashu2525)  [<img src='https://www.freeiconspng.com/uploads/linkedin-icon-21.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/asmita-bag-361968232/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_de_Facebook.png' alt='facebook' height='40'>](https://www.facebook.com/asmita.bag.31)  [<img src='https://img.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728.jpg?size=338&ext=jpg&ga=GA1.1.34264412.1712880000&semt=ais' alt='instagram' height='40'>](https://www.instagram.com/asmitabag8/)  
 
 
 # 💻 Tech Stack:
