@@ -1,5 +1,6 @@
-#Hi👋, myself Asmita 
-###Fascinated towards java development
+### Hi there 👋, myself is Asmita 
+#### Fascinated towards java development
+
 ## 💫 About Me:
 - 🌱 I’m currently learning **Btech from Calcutta university**
 - 💬 Ask me about java, python , c and php
