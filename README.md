@@ -1,5 +1,5 @@
-<p align="center"><h1>Hi👋, myself Asmita </h1> 
-<br><h4>Fascinated towards java development</h4></p>
+<center><h1>Hi👋, myself Asmita </h1> 
+<br><h4>Fascinated towards java development</h4></center>
 ## 💫 About Me:
 - 🌱 I’m currently learning **Btech from Calcutta university**
 - 💬 Ask me about java, python , c and php
