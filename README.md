@@ -1,5 +1,7 @@
+### Hi there 👋, myself is Asmita 
+#### Fascinated towards java development
 # 💫 About Me:
-Ask me about java, python , c and php
+- 💬 Ask me about java, python , c and php
 
 
 ## 🌐 Socials:
