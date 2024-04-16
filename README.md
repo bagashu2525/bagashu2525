@@ -1,4 +1,4 @@
-# Hi there 👋, myself is Asmita 
+# Hi there 👋, myself Asmita 
 #### Fascinated towards java development
 
 ## 💫 About Me:
