@@ -2,7 +2,7 @@
 #### Fascinated towards java development
 
 ## 💫 About Me:
-- 🌱 I’m currently learning **Btech from Calcutta university**
+- 🌱 I’m currently pursuing a **BTech at the University of Calcutta**
 - 💬 Ask me about java, python , c and php
 
 ## 🌐 Socials:
